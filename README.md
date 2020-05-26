@@ -3,6 +3,15 @@ List of my previous work
 
 Personal Website - http://www.connermurphy.net
 
+Takeaway Dice - https://takeawaydice.connermurphy.net/
+
+This web application will help you decide what takeaway to get if you're unsure.
+
+Languages:
+- HTML
+- CSS/SASS
+- ReactJS
+
 Weather Application - https://www.weather.connermurphy.net
 
 This web application fetches the weather from an API called OpenWeatherMap. It returns the location name, temperature and generic weather type from the given input.
