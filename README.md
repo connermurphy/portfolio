@@ -12,7 +12,7 @@ Languages:
 - CSS/SASS
 - ReactJS
 
-Weather Application - https://www.weather.connermurphy.net
+Weather Application - https://weather.connermurphy.net
 
 This web application fetches the weather from an API called OpenWeatherMap. It returns the location name, temperature and generic weather type from the given input.
 
