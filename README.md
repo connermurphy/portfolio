@@ -28,7 +28,19 @@ Languages/Tools:
 - CSS
 - JavaScript / jQuery
 - C#/ASP.NET Core
+- Nginx
 
+**URL Shortener** - https://shorten.connermurphy.net/
+
+This web application "shortens" links down and allows for a re-direct to any site. 
+
+Languages/Tools:
+- HTML
+- CSS
+- JavaScript / jQuery
+- C# / ASP.NET Core
+- MongoDB
+- Nginx
 
 **Video Editing & Animation Portfolio (SpeedHax)** - https://speedhax.eu/
 
