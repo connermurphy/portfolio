@@ -53,7 +53,7 @@ Languages/Tools:
 - PHP (PHPMailer for the contact form)
 
 
-**Spectral Radio**
+**Spectral Radio** - https://spectralradio.net/
 
 A live radio station landing page streaming music and displaying information about the radio station.
 
