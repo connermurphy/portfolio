@@ -42,18 +42,19 @@ Languages/Tools:
 - MongoDB
 - Nginx
 
-**Video Editing & Animation Portfolio (SpeedHax)** - https://speedhax.eu/
+**Social Media Manager & Digital Marketer (Jinxx)** - http://jinxx.cc/
 
-This static website was created to showcase the work of a video editor and animator. It involves simple animations and a working contact form.
+This static website was created to showcase the work of social media & digital marketer.
 
 Languages/Tools:
 - HTML
 - SASS / Bootstrap
+- Bootstrap
 - JavaScript / jQuery
 - PHP (PHPMailer for the contact form)
 
 
-**Spectral Radio** - https://spectralradio.net/
+**Spectral Radio** - http://demo.connermurphy.net/spectral/
 
 A live radio station landing page streaming music and displaying information about the radio station.
 
