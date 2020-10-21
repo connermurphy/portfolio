@@ -64,7 +64,7 @@ Languages/Tools:
 - JavaScript / jQuery
 - ParcelJS
 
-**Inventory Management - WIP** - http://demo.connermurphy.net/spectral/
+**Inventory Management - WIP** - https://react-inventory-mgt.netlify.app/
 
 A side project while I'm currently studying react which showcases a very basic inventory management system.
 
@@ -73,4 +73,5 @@ Languages/Tools:
 - SASS
 - JavaScript
 - ReactJS
+- LocalStorage
 
