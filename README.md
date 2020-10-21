@@ -10,7 +10,7 @@ Langauges/Tools:
 - PHP
 - Gulp
 
-**Takeaway Dice** - https://takeawaydice.connermurphy.net/
+**Takeaway Dice** - (Live demo not available)
 
 This web application will help you decide what takeaway to get if you're unsure.
 
@@ -19,7 +19,7 @@ Languages/Tools:
 - CSS / SASS
 - ReactJS
 
-**Weather Application** - https://weather.connermurphy.net
+**Weather Application** - (Live demo not available)
 
 This web application fetches the weather from an API called OpenWeatherMap. It returns the location name, temperature and generic weather type from the given input.
 
@@ -30,7 +30,7 @@ Languages/Tools:
 - C#/ASP.NET Core
 - Nginx
 
-**URL Shortener** - https://shorten.connermurphy.net/
+**URL Shortener** - (Live demo not available - source code available on request)
 
 This web application "shortens" links down and allows for a re-direct to any site. 
 
@@ -63,4 +63,14 @@ Languages/Tools:
 - SASS / TailwindCSS
 - JavaScript / jQuery
 - ParcelJS
+
+**Inventory Management - WIP** - http://demo.connermurphy.net/spectral/
+
+A side project while I'm currently studying react which showcases a very basic inventory management system.
+
+Languages/Tools:
+- HTML
+- SASS
+- JavaScript
+- ReactJS
 
