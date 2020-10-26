@@ -42,18 +42,6 @@ Languages/Tools:
 - MongoDB
 - Nginx
 
-**Social Media Manager & Digital Marketer (Jinxx)** - http://jinxx.cc/
-
-This static website was created to showcase the work of social media & digital marketer.
-
-Languages/Tools:
-- HTML
-- SASS / Bootstrap
-- Bootstrap
-- JavaScript / jQuery
-- PHP (PHPMailer for the contact form)
-
-
 **Spectral Radio** - http://demo.connermurphy.net/spectral/
 
 A live radio station landing page streaming music and displaying information about the radio station.
@@ -66,7 +54,8 @@ Languages/Tools:
 
 **Inventory Management - WIP** - https://react-inventory-mgt.netlify.app/
 
-A side project while I'm currently studying react which showcases a very basic inventory management system.
+A side project while I'm currently studying react which showcases a very basic inventory management system with the ability to add, edit and delete products.
+This app uses the browser localstorage so you can only manipulate your own data!
 
 Languages/Tools:
 - HTML
