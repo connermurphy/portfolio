@@ -10,7 +10,7 @@ Langauges/Tools:
 - PHP
 - Gulp
 
-**Takeaway Dice** - (Live demo not available)
+**Takeaway Dice** - (Live demo not available - source: https://github.com/connermurphy/TakeawayDice)
 
 This web application will help you decide what takeaway to get if you're unsure.
 
